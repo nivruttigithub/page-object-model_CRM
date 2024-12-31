@@ -3,7 +3,7 @@
 2024-12-18 12:08:25 INFO  TestBase:70 - Browser Name : chrome
 2024-12-18 12:08:27 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
 2024-12-18 12:08:46 INFO  TestBase:27 - LoginPageTest Method is Running...
-  2024-12-18 14:22:23 INFO  TestBase:70 - Browser Name : chrome
+2024-12-18 14:22:23 INFO  TestBase:70 - Browser Name : chrome
   2024-12-18 14:22:31 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
   2024-12-18 14:22:54 INFO  TestBase:70 - Browser Name : chrome
   2024-12-18 14:22:55 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
@@ -46,4 +46,114 @@
   2024-12-27 14:54:57 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
   2024-12-27 15:00:35 INFO  TestBase:70 - Browser Name : chrome
   2024-12-27 15:00:37 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:02:59 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:03:04 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:05:17 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:05:19 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:05:49 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:05:50 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:07:09 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:07:11 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:07:43 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:07:44 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:08:15 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:08:16 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:10:07 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:10:09 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:54:53 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:54:56 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 14:55:24 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 14:55:25 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:28:57 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:29:02 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:29:15 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:29:16 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:29:25 INFO  TestBase:34 - LoginPageTest Method is Running...
+  2024-12-30 15:29:25 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:29:26 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:29:35 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:29:37 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:30:04 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:30:05 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:30:26 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:30:27 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:30:49 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:30:50 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:31:15 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:31:17 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:31:41 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:31:42 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:32:07 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:32:08 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:32:45 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:32:46 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:33:23 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:33:23 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:34:03 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:34:04 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:34:38 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:34:39 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:35:11 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:35:12 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:35:38 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:35:40 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:36:13 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:36:14 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:36:45 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:36:47 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:37:16 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:37:17 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:37:45 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:37:47 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:38:19 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:38:20 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:38:58 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:38:58 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-30 15:39:33 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-30 15:39:34 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:33:44 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:33:48 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:34:00 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:34:01 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:34:11 INFO  TestBase:34 - LoginPageTest Method is Running...
+  2024-12-31 13:34:11 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:34:12 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:34:23 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:34:24 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:35:03 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:35:04 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:36:00 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:36:01 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:37:17 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:37:18 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:37:59 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:38:00 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:38:41 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:38:42 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:39:31 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:39:32 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:40:21 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:40:22 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:41:03 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:41:04 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:41:57 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:41:58 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:42:39 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:42:40 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:43:13 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:43:14 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:43:45 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:43:46 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:44:27 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:44:28 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:45:01 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:45:02 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:45:48 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:45:49 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:46:36 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:46:37 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 13:47:21 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 13:47:22 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
+  2024-12-31 15:35:50 INFO  TestBase:70 - Browser Name : chrome
+  2024-12-31 15:36:05 INFO  TestBase:76 - Application URL : https://classic.crmpro.com
   
